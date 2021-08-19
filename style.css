@@ -1,0 +1,20 @@
+body {
+    color: #D9CEA3;
+    background-color: #0008FF;
+}
+
+body.social {
+    background-color: #00FFF7;
+}
+
+a, a:visited, a:active {
+    color: #D9CEA3 !important;
+}
+
+a:hover {
+    color: #D70A84 !important;
+}
+
+nav {
+    font-size: 3vw;
+}
