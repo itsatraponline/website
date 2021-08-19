@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
 body {
     color: #D9CEA3;
     background-color: #0008FF;
+    font-family: 'Monoton', cursive;
 }
 
 body.social {
@@ -16,5 +19,5 @@ a:hover {
 }
 
 nav {
-    font-size: 3vw;
+    font-size: 2vw;
 }
